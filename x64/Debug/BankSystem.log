@@ -1,0 +1,70 @@
+﻿  BankSystem.cpp
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(366,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(147,9):
+      see declaration of 'clsBankClient::stTrnsferLogRecord'
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(62,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(155,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(156,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(157,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(337,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(347,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(362,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsUser.h(178,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystem.cpp')
+      D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsUser.h(37,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsMainScreen.h(10,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsTotalBalanceScreen.h(57,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsTransferScreen.h(45,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsCurrency.h(35,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystem.cpp')
+  
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsLoginScreen.h(46,1): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(303,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsBankClient.h(351,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\AbouHadhoud Courses\Level_11_OOP_Applications\BankSystem\clsUser.h(337,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> D:\AbouHadhoud Courses\Level_11_OOP_Applications\x64\Debug\BankSystem.exe
